@@ -1,0 +1,37 @@
+.info {
+    background-color: rgb(250,250,210);
+    border: 2px solid rgb(105, 105, 105);
+    border-radius: 10px;
+}
+
+.lablec a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.lablec a:hover {
+    font-style: italic;
+    color: red;
+}
+
+p {
+    text-align: justify;
+}
+#Nagyon{
+    width: 700px;
+    height: 400px;
+}
+#Balls{
+    width: 415px;
+    height: 350px;
+}
+#brock{
+    text-decoration: underline;
+}
+#kontra{
+    text-decoration: underline;
+}
+#fej{
+    height: 500px;
+}
